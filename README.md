@@ -9,7 +9,7 @@ development teams.
 Through the links below, we invite curious students to learn the basic and give
 them details of the next move in the industry.
 
-What is the purpose behind all this ? To learn them them new things ? Not only
+What is the purpose behind all this ? To learn them new things ? Not only
 for that by any means, but to enable them to understand the basic concepts of
 computers and get in touch with individuals here with whom they have, right from
 the start, a common interest and values, and to enable these people to become
