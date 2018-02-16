@@ -140,3 +140,8 @@ Prometheus
 Nagios
 ------
 [Nagios](https://www.nagios.org/documentation/)
+
+Other
+=============
+
+[Semantic versioning](https://semver.org/)
