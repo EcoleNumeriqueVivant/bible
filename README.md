@@ -57,6 +57,21 @@ Address allocation for private internets (RFC 1918)
 --------------------------------------------------
 [RFC 1918](https://tools.ietf.org/html/rfc1918)
 
+TCP/IP
+--------------------------------------------------
+[TCP/IP Kesako ? A quoi ça sert ? Comment ça marche ?](http://sebsauvage.net/comprendre/tcpip/)
+[Apprendre le fonctionnement des réseaux TCP/IP](http://sdz.tdct.org/sdz/apprenez-le-fonctionnement-des-reseaux-tcp-ip.html)
+
+Processus et Threads
+--------------------------------------------------
+[Slides PDF](http://deptinfo.unice.fr/twiki/pub/Minfo06/ApprofondissementSysteme/09_Processusetthreads.pdf)
+[Gestion des processus](http://www.funix.org/fr/unix/process.htm)
+[Processus & threads](http://linux-attitude.fr/post/processus-et-threads)
+
+Synthèse générale UNIX
+--------------
+[FUNIX](http://www.funix.org/fr/unix/)
+
 GNU/Make
 --------
 GNU Make is a tool which controls the generation of executables and other
