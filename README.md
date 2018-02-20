@@ -55,6 +55,8 @@ database is a hierarchical inverted tree, with the root at the top.
 
 Address allocation for private internets (RFC 1918)
 --------------------------------------------------
+Les Request For Comment (RFC), littéralement « demande de commentaires », sont une série numérotée de documents officiels décrivant les aspects techniques d'Internet, ou de différents matériels informatiques (routeurs, serveur DHCP).
+
 [RFC 1918](https://tools.ietf.org/html/rfc1918)
 
 TCP/IP et adresse MAC
