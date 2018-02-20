@@ -177,6 +177,6 @@ Agile methodology
 
 [L'agiliste - Introduction aux méthodes agiles et Scrum](https://www.agiliste.fr/introduction-methodes-agiles/)
 
-[L'agiliste - Guide de démarrage Scrum](https://https://www.agiliste.fr/guide-de-demarrage-scrum/)
+[L'agiliste - Guide de démarrage Scrum](https://www.agiliste.fr/guide-de-demarrage-scrum/)
 
 [Le Guide Définitif de Scrum : Les Règles de Jeu](http://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-French.pdf)
