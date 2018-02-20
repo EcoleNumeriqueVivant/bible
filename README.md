@@ -61,13 +61,17 @@ TCP/IP et adresse MAC
 --------------------------------------------------
 La suite TCP/IP est l'ensemble des protocoles utilisés pour le transfert des données sur Internet. Elle est souvent appelée TCP/IP, d'après le nom de ses deux premiers protocoles : TCP (Transmission Control Protocol) et IP (Internet Protocol).
 Une adresse MAC (Media Access Control), parfois nommée adresse physique, est un identifiant physique stocké dans une carte réseau ou une interface réseau similaire.
+
 [TCP/IP Kesako ? A quoi ça sert ? Comment ça marche ?](http://sebsauvage.net/comprendre/tcpip/)
+
 [Apprendre le fonctionnement des réseaux TCP/IP](http://sdz.tdct.org/sdz/apprenez-le-fonctionnement-des-reseaux-tcp-ip.html)
 
 Processus et Threads
 --------------------------------------------------
 [Slides PDF](http://deptinfo.unice.fr/twiki/pub/Minfo06/ApprofondissementSysteme/09_Processusetthreads.pdf)
+
 [Gestion des processus](http://www.funix.org/fr/unix/process.htm)
+
 [Processus & threads](http://linux-attitude.fr/post/processus-et-threads)
 
 Synthèse générale UNIX
@@ -83,17 +87,20 @@ Make gets its knowledge of how to build your program from a file called the
 makefile, which lists each of the non-source files and how to compute it from
 other files. When you write a program, you should write a makefile for it, so
 that it is possible to use Make to build and install the program.
+
 [Make](https://www.gnu.org/software/make/)
 
 Markdown
 --------
 Markdown is a lightweight markup language with plain text formatting syntax.
+
 [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
 
 Git version control
 -------------------
 Git is a free and open source distributed version control system designed to
 handle everything from small to very large projects with speed and efficiency.
+
 [Website](https://git-scm.com/)
 
 Security
@@ -106,6 +113,7 @@ Password Store
 --------------
 Pass is the standard unix password manager, a lightweight password manager
 that uses GPG and Git for Linux, BSD, and Mac OS X.
+
 [Password Store](https://www.passwordstore.org/)
 
 -------
@@ -119,6 +127,7 @@ Craft things is cool, but automate them is better.
 Terraform
 ---------
 [Terraforn Documentation](https://www.terraform.io/docs/index.html)
+
 [Terragrunt](https://github.com/gruntwork-io/terragrunt)
 
 Ansible
@@ -167,5 +176,7 @@ Agile methodology
 =================
 
 [L'agiliste - Introduction aux méthodes agiles et Scrum](https://www.agiliste.fr/introduction-methodes-agiles/)
+
 [L'agiliste - Guide de démarrage Scrum](https://www.agiliste.fr/introduction-methodes-agiles/)
+
 [Le Guide Définitif de Scrum : Les Règles de Jeu](http://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-French.pdf)
